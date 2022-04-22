@@ -1,9 +1,8 @@
 .background {
   padding: 100px;
-  position: absolute;
   top: 0px;
   left: 0px;
-  width: calc(100vw - 200px);
+  width: 90%;
   height: calc(100vh - 200px);
   background: linear-gradient(150deg, #d9dbe2, #808aac 100%, #282d39 0);
 }
@@ -11,7 +10,6 @@
 .auth-container {
   width: 420px;
   height: 292px;
-  position: relative;
   top: calc(50vh - 144px - 100px);
   left: calc(50vw - 240px - 100px);
   background-color: #4a5162;

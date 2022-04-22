@@ -8,14 +8,6 @@
 
 This project is powered by [Chat Engine](https://chatengine.io).
 
-## Tutorial Setup
-
-Download Code > Zip from [the main branch](https://github.com/alamorre/nextjs-chat-tutorial/).
-
-Follow the Video Tutorial [right here](https://chatengine.io).
-
-Push to your own repo and link to [vercel](https://vercel.io).
-
 ## Setup Finished Project
 
 For the finished version of this project, go to [the last branch](https://github.com/alamorre/nextjs-chat-tutorial/tree/3-chats).

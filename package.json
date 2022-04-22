@@ -1,11 +1,14 @@
 {
   "name": "learn-starter",
   "version": "0.1.0",
+  "homepage": "https://Shiva1706.github.io/meetUp",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "axios": "^0.26.0",
