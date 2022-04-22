@@ -10,4 +10,3 @@ This project is powered by [Chat Engine](https://chatengine.io).
 
 #Preview 
 >To preview this project visit to https://meetup-shiva1706.vercel.app/
->>>>>>> 0c1b997992753425d998110eeead9a6aa20164dd
